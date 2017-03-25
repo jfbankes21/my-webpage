@@ -1,3 +1,5 @@
+<BODY BGCOlOR="#008080">   
+
 ## Web Page for Girls Who Code 
 
 By: Julia Bankes
