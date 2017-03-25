@@ -1,4 +1,7 @@
-<BODY BGCOlOR="#008080">   
+{
+background-color:#ccc;
+color:#FFFF00
+}
 
 ## Web Page for Girls Who Code 
 
