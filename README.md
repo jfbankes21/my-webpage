@@ -1,8 +1,3 @@
-{
-background-color:#ccc;
-color:#FFFF00
-}
-
 ## Web Page for Girls Who Code 
 
 By: Julia Bankes
