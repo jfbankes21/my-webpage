@@ -26,6 +26,11 @@ For Images of cute dogs press [Here](https://www.google.com/search?q=donuts&sour
 
 **Bold** and _Italic_ and `Code` <b>bold
 
+<b>Bold 
+_Italic_
+`Light`
+
+
 [Link](url) and ![Image](src)
 ```
 
