@@ -32,7 +32,7 @@ _Italic_
 `Highlighted`
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiwwL3SkfLSAhWBMGMKHR59BN0QjRwIBw&url=https%3A%2F%2Ftriokomp.wordpress.com%2F2015%2F05%2F27%2Frapsfalt-rumpvarmare%2F&bvm=bv.150729734,d.cGc&psig=AFQjCNHALOPwKbiZ1SfjY9RJjhVXN1eW-Q&ust=1490547855407135) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
