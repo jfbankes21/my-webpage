@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Web Page for Girls Who Code 
 
-You can use the [editor on GitHub](https://github.com/jfbankes21/my-webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Link to google (https://www.google.com/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
