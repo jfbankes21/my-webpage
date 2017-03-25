@@ -1,8 +1,8 @@
 ## Web Page for Girls Who Code 
 
-Link to google (https://www.google.com/) 
+Link to [Google](https://www.google.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For Images of donuts press [Here](https://www.google.com/search?q=donuts&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjyscTSivLSAhVN62MKHXVJAtAQ_AUIBygC&biw=1422&bih=655)
 
 ### Markdown
 
