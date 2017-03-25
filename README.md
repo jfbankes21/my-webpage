@@ -18,7 +18,7 @@ For Images of cute dogs press [Here](https://www.google.com/search?q=donuts&sour
 ## Collages for reaserch 
 ### Medical programs 
 
--<a class="button" hnef="https://www.github.com">Buttons</a> 
+- [Cornell](http://weill.cornell.edu/)
 - [Harverd](https://hms.harvard.edu/)
 - [John Hopkins](http://www.hopkinsmedicine.org/som/)
 - [Stanford](http://med.stanford.edu/)
