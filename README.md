@@ -24,7 +24,7 @@ For Images of cute dogs press [Here](https://www.google.com/search?q=donuts&sour
 - [Stanford](http://med.stanford.edu/)
 - [University of Wyoming](http://www.uwyo.edu/wwami/)
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` <b>bold
 
 [Link](url) and ![Image](src)
 ```
