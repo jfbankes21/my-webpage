@@ -1,15 +1,17 @@
 ## Web Page for Girls Who Code 
 
+By: Julia Bankes
+
 Link to [Google](https://www.google.com/) 
 
-For Images of donuts press [Here](https://www.google.com/search?q=donuts&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjyscTSivLSAhVN62MKHXVJAtAQ_AUIBygC&biw=1422&bih=655)
+For Images of cute dongs press [Here](https://www.google.com/search?q=donuts&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjyscTSivLSAhVN62MKHXVJAtAQ_AUIBygC&biw=1422&bih=655#tbm=isch&q=cute+dogs&*)
 
-### Markdown
+### Usefull Links for school
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Google Docs](https://docs.google.com/document/u/0/?tgif=d)
+[Prezi](https://prezi.com/dashboard/)
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
